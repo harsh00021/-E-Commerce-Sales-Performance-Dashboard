@@ -1,0 +1,1 @@
+This Power BI dashboard is designed to analyze and visualize key performance metrics for Madhav E-Commerce Sales over a quarterly period. The goal is to provide actionable insights into sales performance, customer behavior, and profitability across multiple dimensions.
